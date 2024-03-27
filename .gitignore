@@ -1,0 +1,12 @@
+# System files
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+
+
+# Builds
+dist/
+
+
+# App data
+_data/
